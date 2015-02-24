@@ -45,7 +45,7 @@ p1=rent_state%>%
   scale_color_manual(values=c(rgb(31,74,126, max=255), rgb(192,80,77,max=255)),
                     name="State")+
   theme_codemog()+
-  labs(x="Year", y="Rental Vacancy Rate (%)", title="State Rental Vacancy Rate, Fourth Quarter, 2005 to 2014")
+  labs(x="Year", y="Rental Vacancy Rate (%)", title="State Rental Vacancy Rate, Fourth Quarter, 2005 to 2014\nSource: U.S. Census Bureau, Housing Vacancy Survey")
 p1
 p2=rent_state%>%
   filter(grepl("Colorado", state)|grepl("California", state) )%>%
@@ -54,7 +54,7 @@ p2=rent_state%>%
   scale_color_manual(values=c(rgb(31,74,126, max=255), rgb(192,80,77,max=255)),
                      name="State")+
    theme_codemog()+
-  labs(x="Year", y="Rank", title="State Rental Vacancy Rank (Lowest Rate Ranks First)\nFourth Quarter, 2005 to 2014")
+  labs(x="Year", y="Rank", title="State Rental Vacancy Rank (Lowest Rate Ranks First)\nFourth Quarter, 2005 to 2014\nSource: U.S. Census Bureau, Housing Vacancy Survey")
 p2
 
 p3=rent_msa%>%
@@ -64,7 +64,7 @@ p3=rent_msa%>%
   scale_color_manual(values=c(rgb(31,74,126, max=255), rgb(192,80,77,max=255)),
                      name="MSA")+
   theme_codemog()+
-  labs(x="Year", y="Rental Vacancy Rate (%)", title="MSA Rental Vacancy Rate, Fourth Quarter, 2005 to 2014")
+  labs(x="Year", y="Rental Vacancy Rate (%)", title="MSA Rental Vacancy Rate, Fourth Quarter, 2005 to 2014\nSource: U.S. Census Bureau, Housing Vacancy Survey")
 p3
 p4=rent_msa%>%
   filter(grepl("Denver", msa)| grepl("San Francisco", msa) )%>%
@@ -73,7 +73,7 @@ p4=rent_msa%>%
   scale_color_manual(values=c(rgb(31,74,126, max=255), rgb(192,80,77,max=255)),
                      name="MSA")+
   theme_codemog()+
-  labs(x="Year", y="Rank", title="MSA Rental Vacancy Rank (Lowest Rate Ranks First)\nFourth Quarter, 2005 to 2014\n(Among 75 Largest MSAs)")
+  labs(x="Year", y="Rank", title="MSA Rental Vacancy Rank (Lowest Rate Ranks First)\nFourth Quarter, 2005 to 2014\n(Among 75 Largest MSAs)\nSource: U.S. Census Bureau, Housing Vacancy Survey")
 p4
 
 
