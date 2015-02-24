@@ -1,0 +1,751 @@
+msa,howner_q1,howner_q1_moe,howner_q2,howner_q2_moe,howner_q3,howner_q3_moe,howner_q4,howner_q4_moe,year
+"Akron, OH ",63.2,8.3,74.8,7.9,67.8,8.3,71,8,2014
+"Albany-Schenectady-Troy, NY ",64.9,7.4,65.8,7.5,68.1,7.2,71.7,7.5,2014
+"Alburquerque, NM",63.5,5.1,62.1,5.1,64.3,5.2,68.3,5.3,2014
+"Allentown-Bethlehem-Easton, PA-NJ",70.7,7.1,64.3,8.1,70.3,7.8,67,7.5,2014
+"Atlanta-Sandy Springs-Marietta, GA\1",60.3,3.3,60,3.3,63.3,3.3,62.9,3.2,2014
+"Austin-Round Rock, TX\2",58.4,5.7,58.6,5.9,65.2,5.8,62.3,5.8,2014
+"Bakersfield, CA",51.8,9.5,56.7,9.2,48.1,8.9,54.6,9.1,2014
+"Baltimore-Towson, MD\3",65.8,3.6,62.2,3.6,64.1,3.6,64.5,3.5,2014
+"Baton Rouge, LA",69.7,8.6,62.6,8.5,62.5,8.1,65,8.7,2014
+"Birmingham-Hoover, AL\4",72,6.7,73.6,6.4,77.4,6.1,63.9,7.4,2014
+"Boston-Cambridge-Quincy, MA-NH\5",61.8,3.5,62.4,3.5,64.2,3.4,63,3.4,2014
+"Bridgeport-Stamford-Norwalk, CT",70.5,4.7,71.5,4.6,66.3,4.7,62.4,5,2014
+"Buffalo-Cheektowaga-Tonawanda, NY\6",64.5,6.9,69.2,6.7,62.4,6.8,60.7,6.8,2014
+"Charlotte-Gastonia-Concord, NC-SC\7",58.9,5.9,59.5,6,55.4,5.9,58.7,6,2014
+"Chicago-Naperville-Joliet, IL\8",67.8,2.4,66.3,2.4,67,2.4,64.1,2.4,2014
+"Cincinnati-Middletown, OH-KY-IN\9",64,5,68.7,4.9,65.1,5,64.5,5,2014
+"Cleveland-Elyria-Mentor, OH\10",68.7,4.8,67,4.8,71.1,4.8,70.2,4.7,2014
+"Columbia, SC",70.1,7.2,74,6.9,69.6,7.2,64,7.6,2014
+"Columbus, OH",63.8,5.5,58.5,5.6,56.1,5.8,61.5,5.4,2014
+"Dallas-Ft Worth-Arlington, TX\11",58.9,3.1,56.6,3.1,59.1,3.1,56.3,3.1,2014
+"Dayton, OH",66.9,7.8,62.6,8.2,63.6,8,66.7,7.7,2014
+"Denver-Aurora, CO\12",63.6,3.5,60.7,3.6,62.1,3.5,61.3,3.4,2014
+"Detroit-Warren-Livonia, MI\13",71.1,3.3,72.4,3.3,70.7,3.4,70.9,3.3,2014
+"El Paso, TX",69.6,8.5,66.8,8.9,64.2,9.2,66.2,9.3,2014
+"Fresno, CA",55.5,8.5,53.7,8.2,54.5,8.1,51.9,8.8,2014
+"Grand Rapids-Wyoming, MI\14",71.2,7.8,79.7,6.6,73.1,7.4,60,9.1,2014
+"Greensboro-High Point, NC\15",69.4,8.3,67.7,8.5,67.3,8.9,67.9,8.8,2014
+"Hartford-West Hartford-East Hartford, CT\16",69.9,4.1,68.4,4,67.1,4,68.6,3.9,2014
+"Honolulu, HI",56.6,3.8,55.7,3.9,58.8,3.8,61.7,3.8,2014
+"Houston-Baytown-Sugar Land, TX\17",60.2,3.3,58.5,3.3,60.5,3.2,62.3,3.2,2014
+"Indianapolis, IN",67.4,5.3,68.2,5.4,61.8,5.5,70,5.1,2014
+"Jacksonville, FL",70,5.9,64.3,6.2,63.3,6.4,63.6,6.4,2014
+"Kansas City, MO-KS",65.6,3.5,64.3,3.7,62.7,3.6,71.3,3.2,2014
+"Las Vegas-Paradise, NV\18",50.6,3.4,55.1,3.4,54.4,3.4,53,3.4,2014
+"Los Angeles-Long Beach-Santa Ana, CA \19",50.1,2.2,49.1,2.2,49.3,2.2,47.6,2.2,2014
+"Louisville, KY-IN",62.4,6.7,70.3,6.5,76.4,6.2,67.4,5.9,2014
+"Memphis, TN-AR-MS",51.6,5.4,56.1,5.2,62.4,5.4,59.2,5.4,2014
+"Miami-Fort Lauderdale-Miami Beach, FL\20",59.5,3.3,59.1,3.3,57.2,3.2,59.4,3.3,2014
+"Milwaukee-Waukesha-West Allis, WI",59.1,5.2,52.8,5.2,54.2,5.1,57.5,5.2,2014
+"Minneapolis-St Paul-Bloomington, MN-WI ",70.8,2.8,70.2,2.9,68.2,2.9,69.5,2.8,2014
+"Nashville-Davidson-Murfreesboro, TN\21",65.6,5.8,70.5,5.8,65.9,6.1,66.1,5.9,2014
+"New Haven-Milford, CT",64.7,4.7,64.2,4.7,58.6,4.8,62.1,4.8,2014
+"New Orleans-Metairie-Kenner, LA\22",64,7,64.1,7,53.8,7.4,60.1,7,2014
+"New York-Northern New Jersey--Long Island, NY\23",50,1.8,50.7,1.8,51.9,1.8,50.2,1.8,2014
+"Oklahoma City, OK",69.1,5.6,67.3,5.6,62,5.6,64.8,5.8,2014
+"Omaha-Council Bluffs, NE-IA",71.1,4.6,70.3,4.6,67.3,4.6,66.3,4.6,2014
+"Orlando, FL",67.1,5.2,61.2,5.4,59.3,5.3,61.9,5.1,2014
+"Oxnard-Thousand Oaks-Ventura, CA",69.2,8.6,67,8.7,59.4,9.1,62.4,8.7,2014
+"Philadelphia-Camden-Wilmington, PA ",69,3,67.5,3.1,65.4,3.2,66,3.2,2014
+"Phoenix-Mesa-Scottsdale, AZ\24",63.2,3.8,61.4,3.9,60.9,4,61.9,3.8,2014
+"Pittsburgh, PA",69.8,4.5,65.3,4.5,69.1,4.5,72.4,4.4,2014
+"Portland-Vancouver-Beaverton, OR-WA\25",61.2,4.1,56.8,4.2,58.8,4.2,62.3,4.1,2014
+"Poughkeepsie-Newburgh-Middletown, NJ",64.4,9.5,69.6,8.9,60.5,9.2,71.2,8.8,2014
+Providence-New Bedford-Fall River RI-MA\26,63.4,5.8,58,6,64.1,5.9,60.9,5.9,2014
+"Raleigh-Cary, NC\27",69.3,6.5,73.1,6.5,61.7,7.3,57.8,7.1,2014
+"Richmond, VA\28",73.3,5.5,69.7,5.8,71.8,5.6,75.5,5.3,2014
+"Riverside-San Bernardino-Ontario, CA\29",55.5,4.1,58.4,4.1,60.2,4,53.4,3.9,2014
+"Rochester, NY",70,6.6,67.7,6.8,71.9,6.5,61.7,7.5,2014
+"Sacramento-Arden-Arcade-Roseville, CA\30",60.7,5.2,64,5.1,57.5,5.2,58.2,5,2014
+"St Louis, MO-IL",71.2,4.1,72.7,3.9,70.7,4,70,4.1,2014
+"Salt Lake City, UT\31",66.8,5,68.9,4.8,68.7,5,68.3,5,2014
+"San Antonio, TX ",69,5.2,73.7,4.9,71.3,5.2,66.9,5.2,2014
+"San Diego-Carlsbad-San Marco, CAs\32",57.1,4.5,58.3,4.4,57.5,4.5,56.6,4.4,2014
+"San Francisco-Oakland-Fremont, CA\33",54.6,3.6,54.1,3.6,53.8,3.6,55.8,3.5,2014
+"San Jose-Sunnyvale-Santa Clara, CA\34",57.7,5.7,55.7,5.8,55.1,5.8,57.1,5.6,2014
+"Seattle-Tacoma-Bellevue, WA",61.3,3.7,64.3,3.6,61.8,3.7,58,3.6,2014
+"Springfield, MA",64.1,9.1,67.7,8.2,74,8.4,69.6,8.9,2014
+"Syracuse, NY",53.5,9.5,64.6,8.9,59.7,9.2,63.5,9.1,2014
+"Tampa-St Petersburg-Clearwater, FL",66.9,4.3,65.3,4.2,61.9,4.3,65.5,4.4,2014
+"Toledo, OH",62.8,9.3,64.6,9.8,58.8,9.5,58.1,9.8,2014
+"Tucson, AZ ",66.3,6.9,72.2,6.7,70.1,6.6,57.6,7.5,2014
+"Tulsa, OK",67.5,6.9,61.6,7.1,66.3,6.6,65.7,6.5,2014
+"Virginia Beach-Norfolk-Newport News, VA\35",65.2,6,65.8,6,64.9,6.1,60.5,6.3,2014
+"Washington-Arlington-Alexandria, DC-VA-MD-WV\36",66,3.2,65.4,3.2,65.1,3.2,63.5,3.3,2014
+"Worcester, MA",63.8,8.8,66.8,8.6,57.6,9,61.9,8.6,2014
+"Akron, OH ",71,7.9,69.5,8.1,61.8,8.7,61.4,8.7,2013
+"Albany-Schenectady-Troy, NY ",68.9,7.3,64.7,7.4,70.9,7.1,67.4,7.2,2013
+"Alburquerque, NM",66.8,5.2,66.7,5.1,65.8,4.9,64.7,5,2013
+"Allentown-Bethlehem-Easton, PA-NJ",68.4,7.4,68.6,7.6,73.8,7,74.9,6.8,2013
+"Atlanta-Sandy Springs-Marietta, GA\1",62.9,3.4,61,3.4,62.4,3.3,60.1,3.3,2013
+"Austin-Round Rock, TX\2",61.9,5.7,57.5,6,59.1,5.8,59.9,5.7,2013
+"Bakersfield, CA",50.9,9.3,53,9.3,53.6,9.5,61.1,9.2,2013
+"Baltimore-Towson, MD\3",65.6,3.6,64.5,3.6,65.5,3.6,68.3,3.5,2013
+"Baton Rouge, LA",65.9,8.6,66.9,8.2,65.3,8.6,68.4,8.4,2013
+"Birmingham-Hoover, AL\4",72,7,70.1,6.7,71.8,6.4,74.7,6.4,2013
+"Boston-Cambridge-Quincy, MA-NH\5",66.5,3.4,68.2,3.4,66.6,3.4,63.7,3.4,2013
+"Bridgeport-Stamford-Norwalk, CT",71.5,4.6,71.3,4.6,69.1,4.7,70.9,4.6,2013
+"Buffalo-Cheektowaga-Tonawanda, NY\6",63.9,6.7,65.5,6.7,65.6,6.9,67.1,6.5,2013
+"Charlotte-Gastonia-Concord, NC-SC\7",58.6,6,60.3,6,59.1,6,57.8,5.9,2013
+"Chicago-Naperville-Joliet, IL\8",68.6,2.4,66.8,2.4,68.1,2.4,69.5,2.4,2013
+"Cincinnati-Middletown, OH-KY-IN\9",63.6,5,61,5.1,64,5.1,64.8,5,2013
+"Cleveland-Elyria-Mentor, OH\10",62,5,64.2,5,67.8,4.8,69,4.7,2013
+"Columbia, SC",69.2,7.3,74.5,6.9,67.6,7.6,63.9,7.7,2013
+"Columbus, OH",62.9,5.6,60.7,5.5,57.9,5.7,60.8,5.5,2013
+"Dallas-Ft Worth-Arlington, TX\11",57.8,3.1,61,3.1,59.7,3.1,61.1,3,2013
+"Dayton, OH",63.5,8,64,8.2,64.1,7.9,66.1,8,2013
+"Denver-Aurora, CO\12",61,3.6,61.3,3.6,60.4,3.6,61.2,3.6,2013
+"Detroit-Warren-Livonia, MI\13",71.3,3.3,72.8,3.2,71.1,3.3,71.5,3.3,2013
+"El Paso, TX",68.9,8.6,71.1,8.7,71.6,8.9,65.6,9.1,2013
+"Fresno, CA",50.4,8.4,48.4,8.4,57,8.1,56.2,8.5,2013
+"Grand Rapids-Wyoming, MI\14",75.8,7.3,75.2,7.4,73.1,7.4,70.6,8,2013
+"Greensboro-High Point, NC\15",65.7,8.3,71,8,67.6,8.4,67.2,8.4,2013
+"Hartford-West Hartford-East Hartford, CT\16",66.6,4,69.9,3.9,72.4,3.9,70.6,3.9,2013
+"Honolulu, HI",57.5,3.8,56.6,3.9,58,3.8,59.4,3.8,2013
+"Houston-Baytown-Sugar Land, TX\17",61.6,3.2,61.6,3.2,59.5,3.3,59.5,3.3,2013
+"Indianapolis, IN",70.5,5.3,64.4,5.5,67.4,5.3,67.9,5.2,2013
+"Jacksonville, FL",70.8,6,67.1,6.1,71.4,5.7,70.2,5.9,2013
+"Kansas City, MO-KS",67,3.5,64.5,3.5,65,3.5,65.8,3.5,2013
+"Las Vegas-Paradise, NV\18",53.1,3.4,53.4,3.4,54.8,3.4,49.7,3.4,2013
+"Los Angeles-Long Beach-Santa Ana, CA \19",47.7,2.2,48.2,2.2,49.1,2.2,49.7,2.2,2013
+"Louisville, KY-IN",63.4,6.6,63.1,6.5,66.7,6.2,64.6,6.5,2013
+"Memphis, TN-AR-MS",58.7,5.2,55.5,5.3,56.1,5.2,54.3,5.5,2013
+"Miami-Fort Lauderdale-Miami Beach, FL\20",60.5,3.3,60.7,3.3,59.9,3.3,59.3,3.3,2013
+"Milwaukee-Waukesha-West Allis, WI",60.3,5.3,61.8,5.1,57.9,5.2,59.9,5,2013
+"Minneapolis-St Paul-Bloomington, MN-WI ",71.2,2.8,70.9,2.8,72.2,2.7,72.6,2.7,2013
+"Nashville-Davidson-Murfreesboro, TN\21",60.4,6.1,64.1,6,65.3,5.9,65.7,5.9,2013
+"New Haven-Milford, CT",61.5,4.9,62.5,4.8,60.6,4.9,63.3,4.9,2013
+"New Orleans-Metairie-Kenner, LA\22",58.7,7.7,63.7,7.6,62.3,7.3,61,7.1,2013
+"New York-Northern New Jersey--Long Island, NY\23",50,1.8,51.2,1.8,51.2,1.8,50,1.8,2013
+"Oklahoma City, OK",66.5,5.8,65.5,5.7,69.3,5.5,68.8,5.6,2013
+"Omaha-Council Bluffs, NE-IA",71.3,4.6,67.3,4.7,71.5,4.5,72.4,4.5,2013
+"Orlando, FL",64.7,5.3,65.9,5.3,63.2,5.3,68.2,5.1,2013
+"Oxnard-Thousand Oaks-Ventura, CA",68.3,8.6,71.4,8.5,62.3,8.9,65.5,8.7,2013
+"Philadelphia-Camden-Wilmington, PA ",68.7,3.1,68.3,3.1,69.3,3,70,3,2013
+"Phoenix-Mesa-Scottsdale, AZ\24",63.7,3.8,61.3,3.9,60.2,4,63.3,3.9,2013
+"Pittsburgh, PA",66.9,4.6,68.3,4.5,69.8,4.5,68.3,4.5,2013
+"Portland-Vancouver-Beaverton, OR-WA\25",58.3,4.3,64.1,4.1,61.6,4.1,59.4,4.2,2013
+"Poughkeepsie-Newburgh-Middletown, NJ",68.1,9.1,70.1,9.1,65.2,9.3,57.7,9.5,2013
+Providence-New Bedford-Fall River RI-MA\26,60.8,6,57.2,6,60.4,5.8,62,5.9,2013
+"Raleigh-Cary, NC\27",68.1,6.8,68.2,6.7,64.5,7,61.5,6.9,2013
+"Richmond, VA\28",61.4,5.8,64.9,6,65.8,6.1,70,5.8,2013
+"Riverside-San Bernardino-Ontario, CA\29",55.1,4,57.2,4,59,4.1,54.1,4.2,2013
+"Rochester, NY",65.9,7.1,69.2,6.9,72.7,6.6,69.3,6.7,2013
+"Sacramento-Arden-Arcade-Roseville, CA\30",59.9,5.2,63.2,5.1,59.6,5.2,58.8,5.2,2013
+"St Louis, MO-IL",74.2,4,74.1,4,70.1,4.1,72.5,4,2013
+"Salt Lake City, UT\31",65.9,5.2,67.5,5,66.7,5,67.1,4.9,2013
+"San Antonio, TX ",69.2,5.3,70,5,71.8,5,69.4,5.2,2013
+"San Diego-Carlsbad-San Marco, CAs\32",57.1,4.5,53.4,4.6,53.9,4.5,55.6,4.5,2013
+"San Francisco-Oakland-Fremont, CA\33",56.9,3.5,54.4,3.6,55.1,3.5,54.6,3.6,2013
+"San Jose-Sunnyvale-Santa Clara, CA\34",56.7,5.7,54,5.8,54.5,5.5,60.4,5.5,2013
+"Seattle-Tacoma-Bellevue, WA",62.2,3.8,62.3,3.7,59.5,3.7,60,3.7,2013
+"Springfield, MA",69.3,8.8,69.8,8.2,67,8.8,61.9,8.7,2013
+"Syracuse, NY",56.9,9.5,56.4,9.3,59.9,9.1,62.2,9.1,2013
+"Tampa-St Petersburg-Clearwater, FL",65.1,4.3,65.8,4.2,65.3,4.3,65.1,4.3,2013
+"Toledo, OH",64.4,8.8,64.5,9.2,57.3,9.1,56.8,9,2013
+"Tucson, AZ ",65.5,7.3,66.8,7.2,68.7,7,63.2,7.3,2013
+"Tulsa, OK",67.2,6.5,58.7,7.2,61.4,7.2,69.2,7,2013
+"Virginia Beach-Norfolk-Newport News, VA\35",65.5,6.1,61.6,6.3,63.3,6.1,62.8,5.9,2013
+"Washington-Arlington-Alexandria, DC-VA-MD-WV\36",65,3.3,66.6,3.2,65.6,3.2,66.8,3.2,2013
+"Worcester, MA",65.8,8.7,64.9,8.7,64.4,8.6,58.6,8.7,2013
+"Akron, OH ",71.6,8.1,70.7,8.3,68.6,8.2,69.2,8.3,2012
+"Albany-Schenectady-Troy, NY ",74.6,6.9,68.1,7.3,72.2,7,67.5,7.3,2012
+"Alburquerque, NM",64.6,5.1,62.2,5.2,61,5.1,63.4,5.2,2012
+"Allentown-Bethlehem-Easton, PA-NJ",72.9,7.5,74.9,7.3,80.5,6.5,73.7,7.2,2012
+"Atlanta-Sandy Springs-Marietta, GA\1",63.2,3.3,61.2,3.3,60.8,3.3,63.4,3.3,2012
+"Austin-Round Rock, TX\2",58.8,5.8,60.3,5.8,61.2,5.9,60.1,5.9,2012
+"Bakersfield, CA",50.6,9.3,51,9.4,53.3,9.5,57.4,9.3,2012
+"Baltimore-Towson, MD\3",67,3.5,65.8,3.6,66.3,3.5,65.1,3.5,2012
+"Baton Rouge, LA",70.2,7.9,74.5,7.9,67.9,8.4,73.1,8.1,2012
+"Birmingham-Hoover, AL\4",73.1,6.7,70.1,7,73.1,6.3,76.1,6.2,2012
+"Boston-Cambridge-Quincy, MA-NH\5",65.2,3.5,68.3,3.4,65.7,3.4,64.7,3.5,2012
+"Bridgeport-Stamford-Norwalk, CT",71,4.6,73,4.5,69.8,4.7,68.8,4.6,2012
+"Buffalo-Cheektowaga-Tonawanda, NY\6",61.7,6.9,62.8,7,63,7.1,66.4,6.7,2012
+"Charlotte-Gastonia-Concord, NC-SC\7",56.5,6,60,6.1,61.4,6,55.7,6,2012
+"Chicago-Naperville-Joliet, IL\8",66.9,2.4,67.1,2.4,66.9,2.4,67.5,2.4,2012
+"Cincinnati-Middletown, OH-KY-IN\9",63.2,5.1,61.9,5,65.4,5,63.3,5.1,2012
+"Cleveland-Elyria-Mentor, OH\10",66.3,4.9,61.2,5.1,63.5,4.9,65.6,4.8,2012
+"Columbia, SC",64.1,7.7,67.6,7.6,65.9,7.8,64.8,7.9,2012
+"Columbus, OH",62.9,5.7,62.1,5.6,58.3,5.9,59.5,5.8,2012
+"Dallas-Ft Worth-Arlington, TX\11",62.6,3.1,62.1,3,61.1,3.1,61.3,3.1,2012
+"Dayton, OH",65.6,8.2,64.7,8.4,69.7,8.4,68.4,7.8,2012
+"Denver-Aurora, CO\12",61.9,3.6,62,3.6,61.8,3.6,61.7,3.6,2012
+"Detroit-Warren-Livonia, MI\13",72.8,3.3,73.5,3.2,74,3.2,73.5,3.2,2012
+"El Paso, TX",69.9,8.8,66.7,9.1,66.7,9.3,66,8.9,2012
+"Fresno, CA",50.2,8.3,42.3,8.2,60.7,8.1,59,8.1,2012
+"Grand Rapids-Wyoming, MI\14",79.1,7,75.1,7.5,76.3,7.1,77,7,2012
+"Greensboro-High Point, NC\15",65.5,8.4,65.5,8.5,66.2,8.4,62.5,8.6,2012
+"Hartford-West Hartford-East Hartford, CT\16",65.5,4,71.6,3.8,73.6,3.8,72.7,3.8,2012
+"Honolulu, HI",54.9,3.9,54.8,3.8,55.8,3.8,59,3.7,2012
+"Houston-Baytown-Sugar Land, TX\17",63.3,3.2,64.5,3.2,60.6,3.2,60.4,3.2,2012
+"Indianapolis, IN",68,5.5,65.6,5.5,67.1,5.4,67.8,5.4,2012
+"Jacksonville, FL",66.5,6.1,63.1,6.2,68.9,6.2,68.1,6.2,2012
+"Kansas City, MO-KS",67.1,3.5,63.7,3.6,64,3.6,65.5,3.5,2012
+"Las Vegas-Paradise, NV\18",54.3,3.5,52.1,3.4,51.1,3.5,52.8,3.5,2012
+"Los Angeles-Long Beach-Santa Ana, CA \19",49.7,2.2,49.9,2.2,50.8,2.2,49.1,2.2,2012
+"Louisville, KY-IN",59.3,6.7,65.9,6.4,65,6.3,62.6,6.8,2012
+"Memphis, TN-AR-MS",57.9,5.1,63.1,5.3,60.1,5.1,61.2,5.3,2012
+"Miami-Fort Lauderdale-Miami Beach, FL\20",63.1,3.2,63.5,3.2,61.8,3.2,58.7,3.3,2012
+"Milwaukee-Waukesha-West Allis, WI",63.3,5,60.8,5.1,61.1,5.1,62.6,5.1,2012
+"Minneapolis-St Paul-Bloomington, MN-WI ",68,2.9,70.6,2.8,72.2,2.7,72.3,2.7,2012
+"Nashville-Davidson-Murfreesboro, TN\21",65.6,5.9,66.4,6,66.6,5.9,61.1,6,2012
+"New Haven-Milford, CT",65.2,4.9,62,4.9,61.2,5,60.3,4.9,2012
+"New Orleans-Metairie-Kenner, LA\22",59.6,7.3,66.3,7.3,61.7,7.2,62.2,7.2,2012
+"New York-Northern New Jersey--Long Island, NY\23",49.8,1.8,52.7,1.8,52.1,1.8,51.3,1.8,2012
+"Oklahoma City, OK",66.7,5.7,65.2,5.9,68.6,5.4,68.6,5.6,2012
+"Omaha-Council Bluffs, NE-IA",72,4.7,70.7,4.7,72.5,4.5,74.2,4.4,2012
+"Orlando, FL",68.9,5.3,68,5.2,63.8,5.3,71.4,5,2012
+"Oxnard-Thousand Oaks-Ventura, CA",66.4,8.6,70,8.5,64.7,9.2,63.5,8.6,2012
+"Philadelphia-Camden-Wilmington, PA ",68.9,3,68.4,3,69.8,3,70.9,3,2012
+"Phoenix-Mesa-Scottsdale, AZ\24",64.2,3.8,62.9,3.8,62.3,3.9,63.2,3.8,2012
+"Pittsburgh, PA",67.4,4.5,67,4.6,68.4,4.7,68.8,4.6,2012
+"Portland-Vancouver-Beaverton, OR-WA\25",63.8,4.1,65.5,4.1,66.3,4.1,60,4.2,2012
+"Poughkeepsie-Newburgh-Middletown, NJ",71.5,9.2,74.8,8.7,68,8.9,66,9.2,2012
+Providence-New Bedford-Fall River RI-MA\26,61.9,6,61.3,6,61.4,5.9,62,5.8,2012
+"Raleigh-Cary, NC\27",65.5,6.9,70.6,6.6,68.4,6.6,66.2,7,2012
+"Richmond, VA\28",66.9,5.9,66.4,5.8,68.3,5.9,66.6,5.8,2012
+"Riverside-San Bernardino-Ontario, CA\29",59.1,4,59.4,4,58.7,4,55.5,4.1,2012
+"Rochester, NY",67.5,7,67.3,7.1,68.3,6.9,69.6,7,2012
+"Sacramento-Arden-Arcade-Roseville, CA\30",57.9,5.1,59,5.2,59.5,5.3,58,5.2,2012
+"St Louis, MO-IL",71.9,4,71.6,4,70.9,4,73.8,4,2012
+"Salt Lake City, UT\31",64.8,5.2,66.6,5.1,67.8,5,68.6,5,2012
+"San Antonio, TX ",70.4,5.2,71,5.2,65.6,5.3,63.1,5.4,2012
+"San Diego-Carlsbad-San Marco, CAs\32",55.7,4.6,55.9,4.6,54.2,4.5,56,4.5,2012
+"San Francisco-Oakland-Fremont, CA\33",53.8,3.6,54.3,3.6,51.7,3.6,53.2,3.5,2012
+"San Jose-Sunnyvale-Santa Clara, CA\34",59.1,5.8,58.5,5.6,58.6,5.6,58.1,5.6,2012
+"Seattle-Tacoma-Bellevue, WA",59.9,3.8,59,3.7,59.5,3.7,63.2,3.7,2012
+"Springfield, MA",70.4,8.7,71,8,65.9,8.6,69.3,8.3,2012
+"Syracuse, NY",53.3,9.5,56.3,9.5,60.3,9.4,58.2,9.2,2012
+"Tampa-St Petersburg-Clearwater, FL",67.7,4.3,68.1,4.3,66.6,4.3,65.9,4.3,2012
+"Toledo, OH",56.1,9.4,65.5,9.3,63.5,9.3,62.7,9,2012
+"Tucson, AZ ",61.3,7.5,64.4,7.5,70,7,63.9,7.4,2012
+"Tulsa, OK",69,6.3,70.2,6.2,63,6.9,63.4,6.6,2012
+"Virginia Beach-Norfolk-Newport News, VA\35",62,6.3,62.6,6.5,61.3,6.3,62.1,6.2,2012
+"Washington-Arlington-Alexandria, DC-VA-MD-WV\36",67,3.2,65.8,3.2,66.6,3.2,68.1,3.2,2012
+"Worcester, MA",66.3,8.6,62,8.4,57.9,8.3,61.8,8.7,2012
+"Akron, OH ",72,8.4,71,8.6,67.1,8.5,73.4,8,2011
+"Albany-Schenectady-Troy, NY ",72.3,7.2,73.1,7.1,70.5,7.1,73.7,6.9,2011
+"Alburquerque, NM",72.2,5,69.1,5.1,63.3,5.3,64.2,5.2,2011
+"Allentown-Bethlehem-Easton, PA-NJ",74.7,7.3,74.4,7.4,76.4,7.2,77.4,7.3,2011
+"Atlanta-Sandy Springs-Marietta, GA\1",68.4,3.2,65.5,3.3,64.6,3.3,64.8,3.3,2011
+"Austin-Round Rock, TX\2",61.2,6,59.6,6,55.4,6,57.5,5.9,2011
+"Bakersfield, CA",56.5,9.8,53.1,9.4,59.6,9.4,64.8,9.1,2011
+"Baltimore-Towson, MD\3",64.7,3.5,66.4,3.5,68.6,3.5,67.5,3.4,2011
+"Baton Rouge, LA",76.5,7.6,73,8.3,66.8,8.4,71.9,7.9,2011
+"Birmingham-Hoover, AL\4",78.8,6.1,77.1,6.6,72.7,6.7,75.8,6.5,2011
+"Boston-Cambridge-Quincy, MA-NH\5",66.4,3.5,63.7,3.5,65.7,3.5,66.1,3.5,2011
+"Bridgeport-Stamford-Norwalk, CT",71.9,4.7,73.7,4.5,70.8,4.6,70,4.7,2011
+"Buffalo-Cheektowaga-Tonawanda, NY\6",68,6.7,66.2,7,69.3,6.6,66.8,6.9,2011
+"Charlotte-Gastonia-Concord, NC-SC\7",61,5.9,62,6,66.5,5.8,65.2,5.9,2011
+"Chicago-Naperville-Joliet, IL\8",67.7,2.4,68.4,2.4,68.2,2.4,66.3,2.4,2011
+"Cincinnati-Middletown, OH-KY-IN\9",66,5,65.1,5.1,65.6,5.1,64.2,5.1,2011
+"Cleveland-Elyria-Mentor, OH\10",70.7,4.7,70.1,4.7,70.7,4.6,67.6,4.8,2011
+"Columbia, SC",69.8,7.5,72.7,7.5,69.2,7.8,64.3,7.9,2011
+"Columbus, OH",62.8,5.6,58.5,5.6,60.2,5.7,57.2,5.7,2011
+"Dallas-Ft Worth-Arlington, TX\11",61.4,3.1,63,3.1,62.6,3.1,63.5,3.1,2011
+"Dayton, OH",68.8,8,71.2,7.9,65.7,8.5,67.8,8,2011
+"Denver-Aurora, CO\12",62.4,3.6,62.9,3.6,63.9,3.6,62.9,3.5,2011
+"Detroit-Warren-Livonia, MI\13",73.8,3.2,71.1,3.3,72.4,3.3,76.7,3.1,2011
+"El Paso, TX",72.2,8.7,69.7,8.7,70.1,8.5,76.1,8.2,2011
+"Fresno, CA",50.7,8.7,51.8,8.6,54,8.4,53.6,8.4,2011
+"Grand Rapids-Wyoming, MI\14",80,7.1,77.6,7.3,72.9,7.8,75.1,7.6,2011
+"Greensboro-High Point, NC\15",60.4,8.8,61.1,8.7,64.9,8.8,64.6,8.7,2011
+"Hartford-West Hartford-East Hartford, CT\16",72.7,3.9,74.6,3.8,69.5,4,69,4,2011
+"Honolulu, HI",53,4,54.7,4,54.1,4,54.7,4,2011
+"Houston-Baytown-Sugar Land, TX\17",59.5,3.3,60.4,3.3,62.6,3.3,62.8,3.3,2011
+"Indianapolis, IN",69.4,5.5,68.6,5.6,67.4,5.5,67.7,5.4,2011
+"Jacksonville, FL",70.4,6.1,65.6,6.3,66.2,6.3,69.8,6,2011
+"Kansas City, MO-KS",68.9,3.4,66.6,3.5,68.5,3.5,69.9,3.4,2011
+"Las Vegas-Paradise, NV\18",54,3.6,53.7,3.5,51.9,3.6,52.2,3.6,2011
+"Los Angeles-Long Beach-Santa Ana, CA \19",51.1,2.3,49.8,2.3,50.6,2.2,48.8,2.2,2011
+"Louisville, KY-IN",59.6,6.7,62.1,6.7,61.6,6.8,63.5,6.7,2011
+"Memphis, TN-AR-MS",57.2,5.3,61.5,5.1,61.4,5,60.2,5.2,2011
+"Miami-Fort Lauderdale-Miami Beach, FL\20",64.5,3.3,63.3,3.3,66,3.2,62.9,3.3,2011
+"Milwaukee-Waukesha-West Allis, WI",63.2,5.1,61.1,5.2,63.6,5.2,61.4,5.2,2011
+"Minneapolis-St Paul-Bloomington, MN-WI ",66.9,2.9,68.6,2.8,70.6,2.9,70.4,2.8,2011
+"Nashville-Davidson-Murfreesboro, TN\21",73.2,5.4,67.1,5.9,69.5,5.8,68.4,5.8,2011
+"New Haven-Milford, CT",65.5,4.9,66.3,4.9,67.8,4.8,65.7,4.9,2011
+"New Orleans-Metairie-Kenner, LA\22",60.9,6.9,65.1,7,66.6,6.9,63.2,7.1,2011
+"New York-Northern New Jersey--Long Island, NY\23",51.6,1.8,50.4,1.8,51.1,1.8,50.6,1.8,2011
+"Oklahoma City, OK",71.6,5.6,67.9,5.9,69.5,5.6,69.3,5.5,2011
+"Omaha-Council Bluffs, NE-IA",71.4,4.8,71.7,4.7,72.3,4.7,71,4.7,2011
+"Orlando, FL",69.3,5.3,69.7,5.2,68.5,5.1,66.9,5.3,2011
+"Oxnard-Thousand Oaks-Ventura, CA",74.6,7.8,66.7,8.4,65.1,8.8,61.3,8.8,2011
+"Philadelphia-Camden-Wilmington, PA ",70.5,3,68.6,3.1,68.8,3.1,71,3,2011
+"Phoenix-Mesa-Scottsdale, AZ\24",64.6,3.8,62.6,3.8,61.5,3.8,64.5,3.8,2011
+"Pittsburgh, PA",71.3,4.4,68.9,4.6,70.5,4.6,70.5,4.5,2011
+"Portland-Vancouver-Beaverton, OR-WA\25",64.2,4.2,64.6,4.1,64.1,4.2,61.8,4.2,2011
+"Poughkeepsie-Newburgh-Middletown, NJ",65.9,9.8,73.1,8.9,73.3,9,71.6,9.1,2011
+Providence-New Bedford-Fall River RI-MA\26,61.5,6,62.3,5.9,62,5.9,59.4,5.9,2011
+"Raleigh-Cary, NC\27",65.4,7,63.5,7.1,69.3,6.6,68.5,6.6,2011
+"Richmond, VA\28",62.5,6,63.7,5.9,68.3,5.9,66.7,6,2011
+"Riverside-San Bernardino-Ontario, CA\29",58.6,4.1,62.1,4.1,59.2,4.1,56.8,4.1,2011
+"Rochester, NY",73.6,6.8,66.2,7,68.9,6.8,64.7,7.1,2011
+"Sacramento-Arden-Arcade-Roseville, CA\30",58.5,5.3,53.4,5.4,58,5.4,58.9,5.2,2011
+"St Louis, MO-IL",70.4,4.1,67.8,4.2,72.5,3.9,73.7,4,2011
+"Salt Lake City, UT\31",65.4,5.2,64.3,5.2,69.4,5,66.5,5,2011
+"San Antonio, TX ",66.1,5.5,69.9,5.4,64,5.5,65.9,5.4,2011
+"San Diego-Carlsbad-San Marco, CAs\32",53.9,4.6,56.6,4.6,55.4,4.6,54.9,4.6,2011
+"San Francisco-Oakland-Fremont, CA\33",56.2,3.7,55.7,3.6,57.3,3.6,55.3,3.7,2011
+"San Jose-Sunnyvale-Santa Clara, CA\34",58,5.9,60,5.7,61.6,5.6,62.2,5.7,2011
+"Seattle-Tacoma-Bellevue, WA",63.4,3.7,58.7,3.8,59.5,3.7,61.1,3.7,2011
+"Springfield, MA",67.7,8.6,67.7,8.3,64,8.7,72.7,8.3,2011
+"Syracuse, NY",58.6,9.2,61.5,9.5,63.8,9,62,9,2011
+"Tampa-St Petersburg-Clearwater, FL",67.5,4.4,68.1,4.3,69.6,4.2,68.1,4.3,2011
+"Toledo, OH",58.7,9.7,60.7,9.4,64.4,9.3,67.6,9,2011
+"Tucson, AZ ",66.6,7.4,66.4,7.2,71.1,6.8,64.7,7,2011
+"Tulsa, OK",62.9,6.3,65.1,6.2,64.4,6.3,65.1,6.3,2011
+"Virginia Beach-Norfolk-Newport News, VA\35",62.9,6.2,61.4,6.4,63.4,6.3,61.5,6.3,2011
+"Washington-Arlington-Alexandria, DC-VA-MD-WV\36",67.1,3.3,67.7,3.3,67.3,3.3,68.2,3.2,2011
+"Worcester, MA",62.2,8.5,63.2,8.5,67.8,8.3,70.3,8.2,2011
+"Akron, OH ",76.5,7.7,80.6,7.3,76.6,7.8,74.1,8.1,2010
+"Albany-Schenectady-Troy, NY ",71.7,7.1,71.8,7.1,74.4,6.9,73.2,7.1,2010
+"Alburquerque, NM",67,5.2,65.5,5.3,64.2,5.2,65.5,5.2,2010
+"Allentown-Bethlehem-Easton, PA-NJ",71.4,7.7,72.4,7.7,69.3,8,72.9,7.6,2010
+"Atlanta-Sandy Springs-Marietta, GA\1",67,3.2,66.5,3.2,67.9,3.2,67.3,3.2,2010
+"Austin-Round Rock, TX\2",66.2,5.8,66.5,6.1,66.7,5.9,64.1,5.9,2010
+"Bakersfield, CA",61.5,9.2,56.4,9.7,67.5,8.8,60.7,9.3,2010
+"Baltimore-Towson, MD\3",66,3.5,65.2,3.5,65.5,3.5,66.2,3.5,2010
+"Baton Rouge, LA",72.8,8,67.5,8.3,68.7,8.3,72.5,8,2010
+"Birmingham-Hoover, AL\4",74.5,6.6,75.9,6.3,76.2,6.5,78.3,6.2,2010
+"Boston-Cambridge-Quincy, MA-NH\5",63.8,3.4,65.1,3.5,68.4,3.5,67,3.5,2010
+"Bridgeport-Stamford-Norwalk, CT",73.2,4.5,72.7,4.6,70.6,4.7,68.8,4.8,2010
+"Buffalo-Cheektowaga-Tonawanda, NY\6",62.2,6.8,65.4,6.8,66,6.7,64.6,6.8,2010
+"Charlotte-Gastonia-Concord, NC-SC\7",65.5,5.8,66.5,5.7,68.1,5.8,64.3,6.1,2010
+"Chicago-Naperville-Joliet, IL\8",67.4,2.5,69.8,2.4,68.5,2.4,67.2,2.4,2010
+"Cincinnati-Middletown, OH-KY-IN\9",63.7,5.2,63.5,5.2,61.6,5.3,62.4,5.1,2010
+"Cleveland-Elyria-Mentor, OH\10",72.2,4.6,71.4,4.6,70.2,4.6,68.8,4.8,2010
+"Columbia, SC",72.3,7.3,79.2,6.7,75.5,7.3,69.3,7.7,2010
+"Columbus, OH",63.2,5.4,60.3,5.6,63.7,5.6,61.5,5.5,2010
+"Dallas-Ft Worth-Arlington, TX\11",64.5,3.1,65.2,3.1,63,3.2,62.6,3.1,2010
+"Dayton, OH",63.7,8.1,65.2,8,71,8.1,70.4,8.1,2010
+"Denver-Aurora, CO\12",66.4,3.5,66.1,3.5,65.3,3.6,65.2,3.5,2010
+"Detroit-Warren-Livonia, MI\13",73.1,3.2,72.9,3.2,75,3.2,73.6,3.3,2010
+"El Paso, TX",68.1,8.6,69.5,8.4,68.4,9,74.5,8.2,2010
+"Fresno, CA",46.6,8.6,48.7,8.7,52.1,8.9,49.9,9.1,2010
+"Grand Rapids-Wyoming, MI\14",77,7.4,77.4,7.4,75.8,7.4,75.4,7.5,2010
+"Greensboro-High Point, NC\15",67.6,8.6,68.5,8.1,73.4,7.8,65.4,8.6,2010
+"Hartford-West Hartford-East Hartford, CT\16",74.2,3.8,71.4,3.9,67.3,4,72.3,3.9,2010
+"Honolulu, HI",55.8,4,55.1,4,54,4,54.5,3.9,2010
+"Houston-Baytown-Sugar Land, TX\17",60.3,3.4,62.2,3.4,62.2,3.4,61,3.4,2010
+"Indianapolis, IN",71.1,5.4,68.6,5.4,67,5.4,68.8,5.4,2010
+"Jacksonville, FL",71.7,6.2,70.5,6.2,70.3,6,67.8,6,2010
+"Kansas City, MO-KS",67.9,3.4,67.4,3.5,69,3.5,71,3.4,2010
+"Las Vegas-Paradise, NV\18",57.8,3.6,56.4,3.6,55.2,3.6,53.6,3.6,2010
+"Los Angeles-Long Beach-Santa Ana, CA \19",50.6,2.3,50.1,2.3,49,2.3,49.3,2.2,2010
+"Louisville, KY-IN",68.5,6.8,61.8,6.9,60.2,6.9,63.4,6.7,2010
+"Memphis, TN-AR-MS",62.4,5.1,61.8,5.2,63.4,5.1,59.9,5.4,2010
+"Miami-Fort Lauderdale-Miami Beach, FL\20",65.9,3.3,62.8,3.3,63.5,3.4,63.3,3.3,2010
+"Milwaukee-Waukesha-West Allis, WI",62.4,5.1,60.3,5.2,64.2,5.1,62.7,5.1,2010
+"Minneapolis-St Paul-Bloomington, MN-WI ",71.5,2.8,71.1,2.8,72.2,2.8,70.2,2.8,2010
+"Nashville-Davidson-Murfreesboro, TN\21",69.9,5.8,71.2,5.8,68.8,5.9,71.7,5.6,2010
+"New Haven-Milford, CT",67.1,4.9,67.3,4.8,64,5,64.1,5,2010
+"New Orleans-Metairie-Kenner, LA\22",67.4,6.9,68,7,68.3,7,64.4,6.8,2010
+"New York-Northern New Jersey--Long Island, NY\23",52,1.8,51.7,1.8,50.3,1.8,52.3,1.8,2010
+"Oklahoma City, OK",68.8,5.7,71.3,5.6,67.8,5.8,72.2,5.5,2010
+"Omaha-Council Bluffs, NE-IA",73.3,4.6,74.1,4.5,71.9,4.7,73.3,4.7,2010
+"Orlando, FL",71.9,5.1,71.3,5.2,68.8,5.3,71,5.2,2010
+"Oxnard-Thousand Oaks-Ventura, CA",74.4,7.5,61.8,9,64.5,8.8,66.6,8.5,2010
+"Philadelphia-Camden-Wilmington, PA ",72.4,3,71,3.1,69.3,3.1,70.1,3,2010
+"Phoenix-Mesa-Scottsdale, AZ\24",69.1,3.7,67,3.8,65,3.8,65.1,3.9,2010
+"Pittsburgh, PA",70.1,4.5,69.1,4.6,70.9,4.5,71.6,4.5,2010
+"Portland-Vancouver-Beaverton, OR-WA\25",61.7,4.2,64.4,4.1,65.8,4.1,62.7,4.2,2010
+"Poughkeepsie-Newburgh-Middletown, NJ",73.9,8.9,68.1,9.3,71.9,9.1,69.4,9.5,2010
+Providence-New Bedford-Fall River RI-MA\26,62.6,5.9,62.6,6,60.4,6,58.6,6,2010
+"Raleigh-Cary, NC\27",59,7.3,65.5,7.4,68.3,7,70.8,6.7,2010
+"Richmond, VA\28",70.2,5.7,64.8,6,68.8,5.9,68.5,5.8,2010
+"Riverside-San Bernardino-Ontario, CA\29",65.3,4.1,66.5,4.1,62.5,4.2,61.3,4.2,2010
+"Rochester, NY",68.4,7.1,70.3,6.9,74.2,6.5,72.6,6.6,2010
+"Sacramento-Arden-Arcade-Roseville, CA\30",61.7,5.1,62.5,5.2,58.3,5.4,61.9,5.3,2010
+"St Louis, MO-IL",71.6,4,73.7,3.9,71.8,3.9,71.7,4,2010
+"Salt Lake City, UT\31",67,5.1,64.4,5.1,65.6,5.2,64.8,5.2,2010
+"San Antonio, TX ",69.5,5.2,72.7,5.1,69.8,5.3,68.2,5.3,2010
+"San Diego-Carlsbad-San Marco, CAs\32",55,4.6,57.2,4.6,54,4.7,51.2,4.7,2010
+"San Francisco-Oakland-Fremont, CA\33",58.2,3.7,58,3.6,58.6,3.6,57.1,3.7,2010
+"San Jose-Sunnyvale-Santa Clara, CA\34",56.9,5.9,59.3,5.6,60.6,5.7,58.7,5.9,2010
+"Seattle-Tacoma-Bellevue, WA",61.5,3.8,60.5,3.8,60.9,3.7,60.6,3.7,2010
+"Springfield, MA",66.6,8.4,68.2,8.3,67.3,8.4,66.2,8.9,2010
+"Syracuse, NY",60.4,9.2,63.9,8.9,63,8.9,57.3,9.1,2010
+"Tampa-St Petersburg-Clearwater, FL",68.1,4.4,70.6,4.3,66.5,4.4,67.9,4.3,2010
+"Toledo, OH",61.9,9.4,64.8,9.4,70.5,9.2,59.1,9.5,2010
+"Tucson, AZ ",63.2,7.1,64.5,7.3,62.4,7.4,67.2,7.3,2010
+"Tulsa, OK",66.7,6.4,59.8,6.6,63.3,6.6,66.8,6.3,2010
+"Virginia Beach-Norfolk-Newport News, VA\35",61.3,6.2,60.9,6.2,62,6.3,61.6,6.3,2010
+"Washington-Arlington-Alexandria, DC-VA-MD-WV\36",66.2,3.3,68,3.3,67.4,3.3,67.5,3.2,2010
+"Worcester, MA",63.1,8.7,62.4,8.8,67.4,8.4,63.5,8.4,2010
+"Akron, OH ",75.7,7.7,74.7,7.7,77.4,7.6,81,7.3,2009
+"Albany-Schenectady-Troy, NY ",72.4,7,71,7.3,69.4,7.2,71.5,7.2,2009
+"Alburquerque, NM",65.9,5.4,64.9,5.5,67.3,5.3,64.5,5.3,2009
+"Allentown-Bethlehem-Easton, PA-NJ",72.1,7.7,72.2,7.7,74.3,7.6,71,7.7,2009
+"Atlanta-Sandy Springs-Marietta, GA\1",68.1,3.2,68.1,3.2,65.8,3.2,68.9,3.2,2009
+"Austin-Round Rock, TX\2",61.8,5.8,63.1,5.7,65.8,5.7,65.2,5.8,2009
+"Bakersfield, CA",59.5,9.1,55.7,9.5,59.8,9.3,58.9,9.3,2009
+"Baltimore-Towson, MD\3",69.5,3.5,68.3,3.5,66.2,3.5,67,3.5,2009
+"Baton Rouge, LA",71.9,8.3,72.7,8.1,69.7,8.4,67.5,8.6,2009
+"Birmingham-Hoover, AL\4",73.1,6.3,79.2,6,73.8,6.5,74.4,6.5,2009
+"Boston-Cambridge-Quincy, MA-NH\5",64.5,3.5,65.2,3.5,67.1,3.5,65.1,3.5,2009
+"Bridgeport-Stamford-Norwalk, CT",68.8,4.8,71.6,4.7,69.3,4.7,71.4,4.6,2009
+"Buffalo-Cheektowaga-Tonawanda, NY\6",60.7,6.8,59.8,6.7,60.4,6.7,60.5,6.8,2009
+"Charlotte-Gastonia-Concord, NC-SC\7",66.4,5.8,69.7,5.6,67.2,5.7,61.1,6,2009
+"Chicago-Naperville-Joliet, IL\8",69.1,2.4,69.4,2.4,69.3,2.4,69,2.4,2009
+"Cincinnati-Middletown, OH-KY-IN\9",62.4,5.1,61,5.1,62.3,5.2,63.9,5.1,2009
+"Cleveland-Elyria-Mentor, OH\10",67.3,4.8,69.4,4.8,73.9,4.6,73,4.6,2009
+"Columbia, SC",68.1,7.7,73.6,7.3,72.7,7.5,71.6,7.5,2009
+"Columbus, OH",61.5,5.6,58.8,5.8,62.9,5.6,62.8,5.5,2009
+"Dallas-Ft Worth-Arlington, TX\11",59.8,3.2,63.6,3.1,62.6,3.1,60.2,3.1,2009
+"Dayton, OH",64.8,8.5,69.2,7.9,68.3,8.1,69.2,8,2009
+"Denver-Aurora, CO\12",68.6,3.4,65.4,3.5,63.6,3.6,63.8,3.6,2009
+"Detroit-Warren-Livonia, MI\13",72.5,3.3,74.2,3.2,75.3,3.1,73.6,3.2,2009
+"El Paso, TX",67.3,8.7,70,8.8,59,10.1,58,9.5,2009
+"Fresno, CA",52.8,8.7,52.3,8.7,55.2,9,49.9,9.1,2009
+"Grand Rapids-Wyoming, MI\14",75.1,7.3,72.7,7.7,75.3,7.5,79,6.9,2009
+"Greensboro-High Point, NC\15",70.6,8.3,69.7,8.2,76.7,8,66.3,8.7,2009
+"Hartford-West Hartford-East Hartford, CT\16",73.8,3.8,72,3.8,71.5,4,71.1,4,2009
+"Honolulu, HI",58,4,58,4,58.2,3.9,56.4,3.9,2009
+"Houston-Baytown-Sugar Land, TX\17",62.4,3.4,62.3,3.4,65.1,3.3,64.5,3.4,2009
+"Indianapolis, IN",68.5,5.4,69.3,5.4,72.7,5.2,73.4,5.2,2009
+"Jacksonville, FL",73.2,6,72.8,5.9,72.8,6,71.7,5.8,2009
+"Kansas City, MO-KS",68.4,3.5,69.8,3.4,69.2,3.5,70.6,3.4,2009
+"Las Vegas-Paradise, NV\18",59.9,3.5,60.5,3.5,58.3,3.5,57.3,3.6,2009
+"Los Angeles-Long Beach-Santa Ana, CA \19",50.8,2.3,49.8,2.3,50.6,2.3,50.3,2.3,2009
+"Louisville, KY-IN",70.7,6.9,69.9,6.6,65.7,6.9,64.9,6.7,2009
+"Memphis, TN-AR-MS",60.7,5.1,62.7,5.3,61.7,5.3,61.1,5.3,2009
+"Miami-Fort Lauderdale-Miami Beach, FL\20",66.7,3.3,68.7,3.2,67.4,3.2,65.7,3.3,2009
+"Milwaukee-Waukesha-West Allis, WI",59.7,5.1,57.9,5.2,64.4,5.1,64.5,5.1,2009
+"Minneapolis-St Paul-Bloomington, MN-WI ",68.8,2.9,71.9,2.8,71.7,2.8,71.4,2.8,2009
+"Nashville-Davidson-Murfreesboro, TN\21",69.9,5.9,69.4,5.8,73.4,5.7,74.4,5.5,2009
+"New Haven-Milford, CT",64.7,4.9,63.1,5,64.2,4.8,64.6,4.9,2009
+"New Orleans-Metairie-Kenner, LA\22",69.3,6.8,66.5,7.1,68.6,7.2,68.3,6.8,2009
+"New York-Northern New Jersey--Long Island, NY\23",51.2,1.8,52.6,1.8,51.4,1.8,51.7,1.8,2009
+"Oklahoma City, OK",68.9,5.7,70.9,5.6,67.5,5.8,68.4,5.7,2009
+"Omaha-Council Bluffs, NE-IA",72.4,4.6,74.1,4.5,72.5,4.7,73.2,4.7,2009
+"Orlando, FL",73,5.1,71.2,5.2,73.4,5.1,72.1,5.1,2009
+"Oxnard-Thousand Oaks-Ventura, CA",71.5,7.9,74,7.9,74.1,8.1,73.1,7.4,2009
+"Philadelphia-Camden-Wilmington, PA ",69.1,3.1,69.4,3.1,70.6,3,69.9,3.1,2009
+"Phoenix-Mesa-Scottsdale, AZ\24",70.4,3.7,69.8,3.6,69.3,3.7,69.6,3.7,2009
+"Pittsburgh, PA",72.2,4.5,70.8,4.5,72.8,4.4,71.1,4.4,2009
+"Portland-Vancouver-Beaverton, OR-WA\25",61,4.4,64.2,4.2,67.3,4.1,63.5,4.2,2009
+"Poughkeepsie-Newburgh-Middletown, NJ",67.9,9.7,70,9.2,67.5,9.4,69.5,9.5,2009
+Providence-New Bedford-Fall River RI-MA\26,61.8,6,61.9,6,60.2,6,62.8,5.9,2009
+"Raleigh-Cary, NC\27",67.1,7.1,64.3,7.3,63.7,7.1,67.7,7,2009
+"Richmond, VA\28",74.9,5.7,68.1,5.8,74.3,5.4,71.4,5.6,2009
+"Riverside-San Bernardino-Ontario, CA\29",62.9,4.2,67,4.1,66.9,4,66.9,4.1,2009
+"Rochester, NY",70.5,6.8,75.5,6.5,77.8,6.4,75.4,6.4,2009
+"Sacramento-Arden-Arcade-Roseville, CA\30",63.1,5.2,65.8,5.2,63.9,5.3,64.4,5.3,2009
+"St Louis, MO-IL",71.5,4,74.2,3.9,72.7,3.9,71.6,4,2009
+"Salt Lake City, UT\31",70.1,5.1,67.1,5.2,68,5.2,70,5,2009
+"San Antonio, TX ",68.3,5.4,68.2,5.3,71.5,5.3,71.3,5.2,2009
+"San Diego-Carlsbad-San Marco, CAs\32",57.2,4.6,59,4.6,55.6,4.7,53.6,4.7,2009
+"San Francisco-Oakland-Fremont, CA\33",57.2,3.8,56.2,3.7,58.4,3.6,57.3,3.7,2009
+"San Jose-Sunnyvale-Santa Clara, CA\34",55.9,5.8,57.9,5.7,57.7,5.8,57.2,6,2009
+"Seattle-Tacoma-Bellevue, WA",62.1,3.8,61.4,3.8,60.6,3.8,60.7,3.8,2009
+"Springfield, MA",74.2,8,75,7.9,65.6,8.6,60.9,8.7,2009
+"Syracuse, NY",57.7,9.7,58,9.2,66.3,8.9,63.1,9,2009
+"Tampa-St Petersburg-Clearwater, FL",68,4.4,71.5,4.2,67.5,4.4,66.2,4.4,2009
+"Toledo, OH",63.3,9.5,63.3,9.3,63,9.4,55.3,10,2009
+"Tucson, AZ ",63.7,7.3,66.7,7.2,65.5,7.3,66,7,2009
+"Tulsa, OK",66.5,6.6,66.1,6.6,68.3,6.3,70,6.4,2009
+"Virginia Beach-Norfolk-Newport News, VA\35",62.4,6.2,61.9,6.2,62.2,6.1,67.6,6.1,2009
+"Washington-Arlington-Alexandria, DC-VA-MD-WV\36",67.7,3.3,67.7,3.2,66.7,3.3,66.6,3.3,2009
+"Worcester, MA",62.6,8.4,60.5,8.5,65.4,8.4,69.4,8.2,2009
+"Akron, OH ",79.7,7.2,71.4,7.9,78.7,7.1,79.6,7.1,2008
+"Albany-Schenectady-Troy, NY ",67.3,7.2,69,7.2,72.8,6.7,68.9,7,2008
+"Alburquerque, NM",66.7,5.4,69.8,5.3,68.5,5.1,67.8,5.3,2008
+"Allentown-Bethlehem-Easton, PA-NJ",76.9,7.2,75.7,7.2,75.7,7.4,68,7.8,2008
+"Atlanta-Sandy Springs-Marietta, GA\1",67,3.1,67.6,3.1,67.3,3.1,68.1,3.2,2008
+"Austin-Round Rock, TX\2",64,5.6,69.2,5.4,66.3,5.8,62.4,5.8,2008
+"Bakersfield, CA",62.4,8.9,58.6,9,58,9.5,58.5,9.4,2008
+"Baltimore-Towson, MD\3",69.5,3.5,69.9,3.5,70.9,3.5,67.1,3.5,2008
+"Baton Rouge, LA",74.7,8.2,77.1,8.2,76.3,8.1,68.5,8.5,2008
+"Birmingham-Hoover, AL\4",71.6,6.6,73.7,6.4,73.3,6.6,74.6,6.2,2008
+"Boston-Cambridge-Quincy, MA-NH\5",65.4,3.5,67.2,3.5,66.8,3.5,65.6,3.4,2008
+"Bridgeport-Stamford-Norwalk, CT",72.4,4.6,74.2,4.6,71.5,4.6,72.4,4.6,2008
+"Buffalo-Cheektowaga-Tonawanda, NY\6",64.8,6.6,65.4,6.6,60.5,6.9,64.6,6.7,2008
+"Charlotte-Gastonia-Concord, NC-SC\7",64,5.8,65.6,5.9,66.8,5.6,65.2,5.8,2008
+"Chicago-Naperville-Joliet, IL\8",69.3,2.5,68.2,2.5,68.4,2.5,67.9,2.4,2008
+"Cincinnati-Middletown, OH-KY-IN\9",65.4,5.1,64.4,5.3,63.9,5.1,65.2,5.1,2008
+"Cleveland-Elyria-Mentor, OH\10",72.8,4.6,71.5,4.8,72.8,4.6,75.6,4.5,2008
+"Columbia, SC",70.9,7.6,70.7,7.7,71.8,7.4,72.3,7.2,2008
+"Columbus, OH",63.6,5.8,60.1,5.8,59.6,5.8,61.4,5.7,2008
+"Dallas-Ft Worth-Arlington, TX\11",60.1,3.3,62.5,3.1,61.8,3.1,59,3.2,2008
+"Dayton, OH",63.3,8.6,66,8.1,70.1,7.6,69.9,7.9,2008
+"Denver-Aurora, CO\12",66.6,3.5,65.3,3.6,67.5,3.5,68.4,3.4,2008
+"Detroit-Warren-Livonia, MI\13",74.2,3.1,74.1,3.1,78.5,3,75,3.2,2008
+"El Paso, TX",70.8,8.9,68.8,9.2,57.8,10.4,61.1,9.4,2008
+"Fresno, CA",52.1,8.7,49.1,9.2,53.3,9.2,54.6,8.9,2008
+"Grand Rapids-Wyoming, MI\14",76.1,7.2,75,7.4,78.6,7.1,80.7,6.6,2008
+"Greensboro-High Point, NC\15",68.3,8.9,68.1,8.9,72.7,8.6,63.4,8.7,2008
+"Hartford-West Hartford-East Hartford, CT\16",71.3,3.8,70.1,3.8,69.4,3.9,71.5,4,2008
+"Honolulu, HI",57.3,3.9,57.3,3.9,57,3.9,57.1,3.9,2008
+"Houston-Baytown-Sugar Land, TX\17",66.2,3.5,66.7,3.3,63.2,3.5,63,3.4,2008
+"Indianapolis, IN",73.5,5.3,75.5,5.3,78.4,4.9,72.8,5.3,2008
+"Jacksonville, FL",72,5.9,71.2,6.1,75.1,5.9,70.4,6,2008
+"Kansas City, MO-KS",68.3,3.5,68.6,3.6,71.9,3.5,72,3.4,2008
+"Las Vegas-Paradise, NV\18",61.6,3.5,60.9,3.5,59,3.5,60,3.5,2008
+"Los Angeles-Long Beach-Santa Ana, CA \19",51.5,2.3,51.5,2.3,53.5,2.3,51.8,2.3,2008
+"Louisville, KY-IN",68.4,7.1,68,6.9,68.6,6.9,66.5,7.1,2008
+"Memphis, TN-AR-MS",59.5,5.1,64.9,5.1,65.3,5.1,66,4.9,2008
+"Miami-Fort Lauderdale-Miami Beach, FL\20",66,3.3,66.8,3.3,66.7,3.3,64.5,3.3,2008
+"Milwaukee-Waukesha-West Allis, WI",58.9,5.1,62.6,5.1,60.9,5.1,61.4,5.1,2008
+"Minneapolis-St Paul-Bloomington, MN-WI ",70.1,2.8,69.8,2.8,70.1,2.8,69.5,2.9,2008
+"Nashville-Davidson-Murfreesboro, TN\21",71.3,5.8,68.8,5.9,72.4,5.8,72.9,5.7,2008
+"New Haven-Milford, CT",63.8,4.8,67.1,4.9,65.3,4.8,65.8,4.7,2008
+"New Orleans-Metairie-Kenner, LA\22",69.8,7.1,68.7,7.2,67.9,7.4,66,7,2008
+"New York-Northern New Jersey--Long Island, NY\23",52.5,1.8,53.8,1.8,52.2,1.8,52,1.8,2008
+"Oklahoma City, OK",68.7,5.8,66.6,5.9,71.7,5.8,70.9,5.5,2008
+"Omaha-Council Bluffs, NE-IA",70.7,4.8,72.6,4.6,75.6,4.6,71,4.8,2008
+"Orlando, FL",71.3,5.3,73.4,5.1,69.3,5.4,68.3,5.2,2008
+"Oxnard-Thousand Oaks-Ventura, CA",68.9,8.2,72.1,7.9,68.1,8.2,77.2,7,2008
+"Philadelphia-Camden-Wilmington, PA ",71.7,3,72.2,3,72.3,3,70.9,3.1,2008
+"Phoenix-Mesa-Scottsdale, AZ\24",71.9,3.6,68.3,3.8,69.9,3.6,70.6,3.7,2008
+"Pittsburgh, PA",74.7,4.3,72.9,4.3,74,4.3,71.4,4.5,2008
+"Portland-Vancouver-Beaverton, OR-WA\25",59.1,4.3,63.9,4.1,64.2,4.1,63.1,4.2,2008
+"Poughkeepsie-Newburgh-Middletown, NJ",71.6,9.4,67.9,10.2,71,9.7,69.2,9.4,2008
+Providence-New Bedford-Fall River RI-MA\26,63.6,6.1,64.2,5.9,63.5,5.9,64.2,5.9,2008
+"Raleigh-Cary, NC\27",72.2,6.9,70.6,6.9,70.9,6.9,69.2,7,2008
+"Richmond, VA\28",71.2,5.9,69,5.9,72.1,5.6,77.3,5.3,2008
+"Riverside-San Bernardino-Ontario, CA\29",66.2,3.9,69.2,3.9,66.5,4.1,61.3,4.2,2008
+"Rochester, NY",73.4,6.7,79,6.3,73.8,6.9,73.9,6.7,2008
+"Sacramento-Arden-Arcade-Roseville, CA\30",59.3,5.6,65.4,5.3,60.6,5.3,59.3,5.4,2008
+"St Louis, MO-IL",71.5,4.1,73,3.9,72.9,3.9,71.3,4,2008
+"Salt Lake City, UT\31",73.4,4.9,71.4,5.1,70.8,5.1,72.4,5,2008
+"San Antonio, TX ",62.4,5.8,66.7,5.6,67.3,5.4,68,5.4,2008
+"San Diego-Carlsbad-San Marco, CAs\32",56,4.6,57.8,4.6,59.1,4.6,55.6,4.6,2008
+"San Francisco-Oakland-Fremont, CA\33",55.5,3.6,55.1,3.6,59.4,3.6,55.6,3.8,2008
+"San Jose-Sunnyvale-Santa Clara, CA\34",54.4,5.8,55.4,5.8,54.8,5.8,53.9,5.8,2008
+"Seattle-Tacoma-Bellevue, WA",61.2,3.8,62.6,3.8,61.8,3.8,59.5,3.8,2008
+"Springfield, MA",63,8.9,66.6,8.7,59.2,9,66.1,8.6,2008
+"Syracuse, NY",63,9.5,55.8,9.7,63.8,9.2,66.8,9.1,2008
+"Tampa-St Petersburg-Clearwater, FL",69.6,4.3,73.6,4.1,69.4,4.3,69.4,4.2,2008
+"Toledo, OH",65.7,9.4,66.4,9,70.3,8.4,66.1,9.1,2008
+"Tucson, AZ ",65.5,7.6,63.6,7.6,63.4,7.4,61.8,7.2,2008
+"Tulsa, OK",62.8,6.7,64.6,6.7,71.5,6.1,67.7,6.4,2008
+"Virginia Beach-Norfolk-Newport News, VA\35",63.3,6.4,62.1,6.3,63.7,6.1,66.4,6.1,2008
+"Washington-Arlington-Alexandria, DC-VA-MD-WV\36",68.7,3.3,70,3.3,66.5,3.3,67.2,3.3,2008
+"Worcester, MA",70.5,8.2,69.8,8.1,66.7,7.9,67.2,8.2,2008
+"Akron, OH ",80.5,7.2,69.6,8.1,69.3,8.2,79.6,4.4,2007
+"Albany-Schenectady-Troy, NY ",66.5,7.6,68.4,7.4,71,7.2,66.3,4.5,2007
+"Alburquerque, NM",67.4,5.4,71.6,5.3,70.1,5.3,72.7,3.2,2007
+"Allentown-Bethlehem-Easton, PA-NJ",74.6,7.4,76.5,7.2,74.1,7.4,71.2,4.6,2007
+"Atlanta-Sandy Springs-Marietta, GA\1",68.8,3.1,66.3,3.3,65.1,3.3,65.2,2,2007
+"Austin-Round Rock, TX\2",65.6,5.6,65.7,5.4,67.5,5.8,67,3.4,2007
+"Bakersfield, CA",67.9,8.7,62.5,9.2,67.4,8.9,68.7,5.3,2007
+"Baltimore-Towson, MD\3",71.4,3.5,72.2,3.5,71.4,3.3,69.7,2.1,2007
+"Baton Rouge, LA",59.2,9.4,69.6,8.7,69.5,8.6,68.3,5.1,2007
+"Birmingham-Hoover, AL\4",72.8,6.6,75.5,6.4,76.8,6.4,74.9,3.9,2007
+"Boston-Cambridge-Quincy, MA-NH\5",65.2,3.5,64.5,3.5,66.1,3.5,63.3,2.1,2007
+"Bridgeport-Stamford-Norwalk, CT",71.5,4.6,70.3,4.6,69.9,4.6,69.5,2.9,2007
+"Buffalo-Cheektowaga-Tonawanda, NY\6",64.5,6.4,66.3,6.6,61.4,6.9,66,4.1,2007
+"Charlotte-Gastonia-Concord, NC-SC\7",66.7,5.9,66.6,5.9,67.3,5.9,65.7,3.5,2007
+"Chicago-Naperville-Joliet, IL\8",69.1,2.5,68.4,2.5,70.4,2.3,68,1.5,2007
+"Cincinnati-Middletown, OH-KY-IN\9",69.4,5.1,69.1,4.9,66.6,5.1,65.4,3.1,2007
+"Cleveland-Elyria-Mentor, OH\10",77.2,4.4,72,4.8,73.4,4.6,74.5,2.8,2007
+"Columbia, SC",67.5,8.2,75.6,7.6,74.5,7.4,67,4.8,2007
+"Columbus, OH",64.8,5.6,65,5.4,67.6,5.6,67.4,3.5,2007
+"Dallas-Ft Worth-Arlington, TX\11",62.2,3.3,60.5,3.1,60.8,3.1,60.2,1.9,2007
+"Dayton, OH",65.5,8.2,63.4,8.2,63.7,8.1,64.2,4.9,2007
+"Denver-Aurora, CO\12",69.9,3.5,70.6,3.5,69.4,3.5,68.3,2.1,2007
+"Detroit-Warren-Livonia, MI\13",77.7,3,76.7,3.1,75,3.1,74.8,1.9,2007
+"El Paso, TX",68.2,9.7,70.5,9,69.1,9.2,64.9,5.7,2007
+"Fresno, CA",50.1,8.9,52.1,9,53,9.2,48.5,5.4,2007
+"Grand Rapids-Wyoming, MI\14",79.5,6.9,78.6,7.2,76.2,7.2,80.2,4.1,2007
+"Greensboro-High Point, NC\15",61.6,9,61,8.9,62.6,9.2,63.1,5.5,2007
+"Hartford-West Hartford-East Hartford, CT\16",71.2,3.9,69.8,3.9,70.7,3.8,69.8,2.4,2007
+"Honolulu, HI",56.8,3.9,61.1,3.9,61,3.9,56.3,2.4,2007
+"Houston-Baytown-Sugar Land, TX\17",65.2,3.5,63.5,3.5,63.5,3.5,65.6,2.1,2007
+"Indianapolis, IN",75.6,5.1,77.5,4.9,75.3,5.1,75.1,3.1,2007
+"Jacksonville, FL",71.3,6.3,68.1,6.3,70.6,6.1,73.5,3.5,2007
+"Kansas City, MO-KS",68.7,3.6,70.6,3.5,73.2,3.3,72.5,2.1,2007
+"Las Vegas-Paradise, NV\18",64,3.5,60,3.6,58.9,3.6,59.4,2.1,2007
+"Los Angeles-Long Beach-Santa Ana, CA \19",52.5,2.3,52.4,2.3,52.1,2.3,52.1,1.4,2007
+"Louisville, KY-IN",65.1,7.1,64.1,7.1,71.8,6.7,67.9,4.2,2007
+"Memphis, TN-AR-MS",59,5.1,58.1,5.1,63,5.1,62.5,3,2007
+"Miami-Fort Lauderdale-Miami Beach, FL\20",67.4,3.3,64.7,3.3,66.6,3.3,67.8,1.9,2007
+"Milwaukee-Waukesha-West Allis, WI",62.3,5.1,66.6,5.1,65.7,5.1,64.4,3.1,2007
+"Minneapolis-St Paul-Bloomington, MN-WI ",73.4,2.8,69.8,2.8,69.1,3,70.5,1.7,2007
+"Nashville-Davidson-Murfreesboro, TN\21",71.9,5.8,66.3,6.1,66.8,6.1,75.5,3.5,2007
+"New Haven-Milford, CT",63.3,4.9,68.9,4.8,62.8,4.9,63.8,2.9,2007
+"New Orleans-Metairie-Kenner, LA\22",72.4,7.2,68.2,7.7,64.3,7.6,66.5,4.5,2007
+"New York-Northern New Jersey--Long Island, NY\23",53.1,1.8,55,1.8,54.2,1.8,52.9,1.1,2007
+"Oklahoma City, OK",69.8,5.6,65.1,5.9,69.1,5.8,69,3.5,2007
+"Omaha-Council Bluffs, NE-IA",65.7,4.9,67,4.8,67.9,4.9,71.3,2.9,2007
+"Orlando, FL",74,4.9,71.2,5.1,72.7,5.1,69.1,3.2,2007
+"Oxnard-Thousand Oaks-Ventura, CA",74.8,7.9,71.4,8.2,73.8,8.1,65.6,5.2,2007
+"Philadelphia-Camden-Wilmington, PA ",72.5,3,73.5,3,72.8,3,73.7,1.8,2007
+"Phoenix-Mesa-Scottsdale, AZ\24",73.8,3.6,70.8,3.6,70.2,3.8,68.5,2.3,2007
+"Pittsburgh, PA",73.1,4.3,73.4,4.3,74,4.3,73.9,2.6,2007
+"Portland-Vancouver-Beaverton, OR-WA\25",61.1,4.3,63.2,4.3,61.1,4.3,59.5,2.6,2007
+"Poughkeepsie-Newburgh-Middletown, NJ",81.1,8.2,74.3,9.4,69.8,9.9,67.2,6,2007
+Providence-New Bedford-Fall River RI-MA\26,62.6,5.9,64.2,5.9,65,5.9,64.7,3.6,2007
+"Raleigh-Cary, NC\27",70.5,7.1,73.5,6.7,73.1,6.7,74,4.2,2007
+"Richmond, VA\28",71.9,5.9,72,5.9,71.3,5.9,75.5,3.3,2007
+"Riverside-San Bernardino-Ontario, CA\29",65.4,3.9,66.3,3.9,66.5,4.1,68.1,2.4,2007
+"Rochester, NY",74.1,6.7,74.6,6.7,77.2,6.6,71.7,4.2,2007
+"Sacramento-Arden-Arcade-Roseville, CA\30",60.7,5.6,64,5.3,60,5.3,58.4,3.3,2007
+"St Louis, MO-IL",73,3.9,70.8,3.9,71.8,3.9,72.6,2.4,2007
+"Salt Lake City, UT\31",70.4,5.3,71.2,5.1,72,5.1,73.6,3,2007
+"San Antonio, TX ",61.6,5.9,64.6,5.9,63.2,5.8,60.4,3.5,2007
+"San Diego-Carlsbad-San Marco, CAs\32",58.1,4.6,59.9,4.6,62.1,4.4,58.2,2.8,2007
+"San Francisco-Oakland-Fremont, CA\33",57.1,3.8,58.5,3.6,59,3.6,57.3,2.3,2007
+"San Jose-Sunnyvale-Santa Clara, CA\34",59.1,5.6,59.9,5.8,56,5.9,55.2,3.5,2007
+"Seattle-Tacoma-Bellevue, WA",64.2,3.8,65.2,3.6,62.3,3.8,59.8,2.3,2007
+"Springfield, MA",58,8.9,58.7,9.2,59.4,9,59,5.4,2007
+"Syracuse, NY",60.4,9.4,63.8,9.5,63.3,9.5,65.9,5.5,2007
+"Tampa-St Petersburg-Clearwater, FL",73,4.1,74,4.1,73.4,4.1,71.3,2.6,2007
+"Toledo, OH",67.2,8.9,67.8,8.7,68.8,8.7,69.1,5.3,2007
+"Tucson, AZ ",64.6,7.9,69.3,7.4,67.5,7.6,67,4.5,2007
+"Tulsa, OK",63.4,7.1,67.8,6.4,68.1,6.4,67.2,4,2007
+"Virginia Beach-Norfolk-Newport News, VA\35",69.2,6.1,69.6,6.1,63.6,6.3,61.8,3.9,2007
+"Washington-Arlington-Alexandria, DC-VA-MD-WV\36",70.7,3.1,69.8,3.3,68.4,3.3,67.9,2,2007
+"Worcester, MA",69.4,8.2,66.8,8.4,66.7,8.1,68.4,4.9,2007
+"Akron, OH ",75.3,7.7,75.3,7.7,79.5,7.4,78.6,4.6,2006
+"Albany-Schenectady-Troy, NY ",65.8,7.6,68.7,7.4,66.7,7.4,66.9,4.7,2006
+"Alburquerque, NM",70,5.4,68.9,5.4,71.5,5.1,69.5,3.2,2006
+"Allentown-Bethlehem-Easton, PA-NJ",74.5,7.4,78.2,7.1,74,7.6,73.8,4.4,2006
+"Atlanta-Sandy Springs-Marietta, GA\1",68.9,3.3,67.4,3.3,68.5,3.3,66.9,2,2006
+"Austin-Round Rock, TX\2",61.2,5.9,66.8,5.8,71,5.4,67.5,3.5,2006
+"Bakersfield, CA",56.1,9.5,60,9.2,65.6,8.7,67,5.3,2006
+"Baltimore-Towson, MD\3",74.8,3.3,72.4,3.3,72.7,3.3,71.9,2.1,2006
+"Baton Rouge, LA",59.5,9.4,65,9.2,69.7,8.7,65.8,5.6,2006
+"Birmingham-Hoover, AL\4",75.4,6.4,76,6.4,77,6.3,76.1,3.9,2006
+"Boston-Cambridge-Quincy, MA-NH\5",62.7,3.6,64.2,3.5,65.4,3.5,66.3,2.1,2006
+"Bridgeport-Stamford-Norwalk, CT",75.2,4.4,72,4.6,68.5,4.6,66.4,2.8,2006
+"Buffalo-Cheektowaga-Tonawanda, NY\6",68.8,6.6,69.1,6.6,66.1,6.9,61.3,4.1,2006
+"Charlotte-Gastonia-Concord, NC-SC\7",65.5,6.1,66.7,6.3,68.4,5.9,63.8,3.7,2006
+"Chicago-Naperville-Joliet, IL\8",68.3,2.5,68.6,2.5,71.2,2.3,70.4,1.4,2006
+"Cincinnati-Middletown, OH-KY-IN\9",68.1,4.9,64.7,5.1,64.2,5.1,65,3.2,2006
+"Cleveland-Elyria-Mentor, OH\10",76.1,4.6,76.3,4.4,76.7,4.4,78.5,2.6,2006
+"Columbia, SC",66.2,8.1,70,8.1,78.3,7.2,74.8,4.5,2006
+"Columbus, OH",64.5,5.4,63.4,5.3,65.8,5.8,70.1,3.3,2006
+"Dallas-Ft Worth-Arlington, TX\11",62.4,3.3,59.9,3.3,59.8,3.3,60.7,2,2006
+"Dayton, OH",63.6,8.2,63.2,8.1,65,7.9,66.4,4.8,2006
+"Denver-Aurora, CO\12",69,3.6,70.9,3.5,71.3,3.5,68.9,2.1,2006
+"Detroit-Warren-Livonia, MI\13",75.6,3.1,76.9,3.1,74.2,3.1,76.5,1.8,2006
+"El Paso, TX",58.9,10.4,66.1,10,67.3,9.4,67.2,5.7,2006
+"Fresno, CA",52.1,9.2,53.9,9,55.4,8.7,54.1,5.3,2006
+"Grand Rapids-Wyoming, MI\14",76.9,7.4,73.8,7.7,74.4,7.7,80.8,4.1,2006
+"Greensboro-High Point, NC\15",57.5,9,65,8.7,63.7,9,62.6,5.5,2006
+"Hartford-West Hartford-East Hartford, CT\16",72.9,3.8,74.2,3.6,75.1,3.8,73,2.3,2006
+"Honolulu, HI",59.7,3.9,60.7,3.8,58,3.9,55.1,2.4,2006
+"Houston-Baytown-Sugar Land, TX\17",63.7,3.5,63.2,3.5,62.3,3.5,64.6,2.1,2006
+"Indianapolis, IN",77,5.3,79.4,4.9,79.7,4.8,79.9,2.9,2006
+"Jacksonville, FL",69.1,6.4,69.6,6.3,67.4,6.3,74,3.6,2006
+"Kansas City, MO-KS",68.1,3.6,68.9,3.6,71.1,3.5,70,2.1,2006
+"Las Vegas-Paradise, NV\18",63.5,3.6,61.3,3.6,63.7,3.5,64.8,2.1,2006
+"Los Angeles-Long Beach-Santa Ana, CA \19",54.4,2.3,54.9,2.3,54.6,2.3,53.8,1.4,2006
+"Louisville, KY-IN",64,7.1,66.6,7.1,67.2,7.1,67.8,4.3,2006
+"Memphis, TN-AR-MS",62.2,5.1,63.1,5.1,62.8,5.1,58.4,3.1,2006
+"Miami-Fort Lauderdale-Miami Beach, FL\20",67.8,3.3,67.8,3.3,66.8,3.3,67.2,2,2006
+"Milwaukee-Waukesha-West Allis, WI",60.7,5.3,64.4,5.1,69.4,4.9,66.4,3,2006
+"Minneapolis-St Paul-Bloomington, MN-WI ",73.6,2.8,73.3,2.8,73.4,2.8,73.2,1.7,2006
+"Nashville-Davidson-Murfreesboro, TN\21",67.3,6.3,71.8,6.1,74.5,5.8,75.4,3.3,2006
+"New Haven-Milford, CT",62.3,4.8,63.1,4.8,65,4.8,65.5,3,2006
+"New Orleans-Metairie-Kenner, LA\22",69.9,8.1,70,7.7,67.8,8.1,73.1,4.4,2006
+"New York-Northern New Jersey--Long Island, NY\23",52.4,1.8,54.2,1.8,54.1,1.8,53.5,1.1,2006
+"Oklahoma City, OK",73.1,5.4,69.6,5.8,72.3,5.6,72.3,3.4,2006
+"Omaha-Council Bluffs, NE-IA",68.2,4.9,68.2,4.9,67.4,4.9,68.4,3,2006
+"Orlando, FL",71.2,5.1,71.6,5.1,69.2,5.1,72.4,3.1,2006
+"Oxnard-Thousand Oaks-Ventura, CA",72.4,8.2,70.7,8.2,64,8.6,72.7,5.1,2006
+"Philadelphia-Camden-Wilmington, PA ",73.3,3,73.5,3,71.8,3,74.1,1.8,2006
+"Phoenix-Mesa-Scottsdale, AZ\24",70.3,3.8,72.9,3.8,73.9,3.6,72.6,2.3,2006
+"Pittsburgh, PA",70.9,4.6,70.6,4.6,73.2,4.4,73.8,2.6,2006
+"Portland-Vancouver-Beaverton, OR-WA\25",67.4,4.1,67.2,4.3,65.9,4.3,63.7,2.6,2006
+"Poughkeepsie-Newburgh-Middletown, NJ",74.8,9,74.3,9.4,71.1,9.4,75.8,5.5,2006
+Providence-New Bedford-Fall River RI-MA\26,65.1,5.9,64.6,5.9,66,5.8,66.4,3.5,2006
+"Raleigh-Cary, NC\27",70.3,7.2,68.7,7.4,73,7.1,72.3,4.3,2006
+"Richmond, VA\28",69.7,5.9,68.6,5.9,70,5.9,67.4,3.7,2006
+"Riverside-San Bernardino-Ontario, CA\29",69,3.9,68.2,3.9,66.7,3.9,69.2,2.3,2006
+"Rochester, NY",71.2,6.7,71.2,6.9,78.2,6.4,73.3,4.1,2006
+"Sacramento-Arden-Arcade-Roseville, CA\30",61.2,5.4,65,5.4,65.2,5.3,65.6,3.2,2006
+"St Louis, MO-IL",71.1,4.1,73.4,3.9,72.5,3.9,74.3,2.3,2006
+"Salt Lake City, UT\31",70.6,5.3,67.7,5.4,71.8,5.1,68.5,3.2,2006
+"San Antonio, TX ",65.7,5.9,64.5,5.9,61.3,5.8,59.5,3.5,2006
+"San Diego-Carlsbad-San Marco, CAs\32",61.2,4.4,60.4,4.4,63.1,4.6,60.2,2.8,2006
+"San Francisco-Oakland-Fremont, CA\33",58.5,3.6,59.7,3.6,61.6,3.6,57.9,2.2,2006
+"San Jose-Sunnyvale-Santa Clara, CA\34",61.3,5.8,60.4,5.9,59.7,5.9,56.1,3.6,2006
+"Seattle-Tacoma-Bellevue, WA",64.7,3.8,63.1,3.8,63,3.8,64,2.3,2006
+"Springfield, MA",62.5,8.6,64.9,8.6,61.7,8.9,60.2,5.4,2006
+"Syracuse, NY",64.5,9.2,66.2,9,67.9,9,65.5,5.5,2006
+"Tampa-St Petersburg-Clearwater, FL",69.8,4.3,70.2,4.1,72.9,4.1,73.5,2.5,2006
+"Toledo, OH",72.8,8.6,70.4,8.4,72.3,8.6,67.5,5.4,2006
+"Tucson, AZ ",60.9,8.1,70.1,7.4,70.6,7.4,68.1,4.6,2006
+"Tulsa, OK",70.1,6.6,68.7,6.3,67.8,6.6,64.6,4.3,2006
+"Virginia Beach-Norfolk-Newport News, VA\35",69.4,6.3,68.1,6.3,66.7,6.3,69.2,3.7,2006
+"Washington-Arlington-Alexandria, DC-VA-MD-WV\36",67.7,3.3,69.2,3.3,67.8,3.3,70.9,2,2006
+"Worcester, MA",69.7,8.1,66.8,8.4,72.8,7.7,74.6,4.6,2006
+"Akron, OH ",75.7,7.9,81,6.9,79.3,7.2,76.2,4.7,2005
+"Albany-Schenectady-Troy, NY ",72,7.2,66.5,7.6,61.7,7.7,65.2,4.7,2005
+"Alburquerque, NM",70.5,5.4,69.1,5.6,69.3,5.6,68.2,3.3,2005
+"Allentown-Bethlehem-Easton, PA-NJ",71.9,7.4,72.5,7.6,75.3,7.4,74.3,4.5,2005
+"Atlanta-Sandy Springs-Marietta, GA\1",65,3.5,63.7,3.5,66.1,3.5,70.7,2,2005
+"Austin-Round Rock, TX\2",59,6.4,63.1,6.4,66.2,5.9,67,3.6,2005
+"Bakersfield, CA",57.9,9,60.1,9.5,59.2,9,64.7,5.3,2005
+"Baltimore-Towson, MD\3",68.8,3.5,71.9,3.5,70.4,3.5,71.5,2.1,2005
+"Baton Rouge, LA",69,8.9,65.4,9.2,74.3,7.9,74.4,4.9,2005
+"Birmingham-Hoover, AL\4",76,6.3,73.1,6.6,75.7,6.6,75.7,3.9,2005
+"Boston-Cambridge-Quincy, MA-NH\5",62.8,3.6,61.2,3.6,65.5,3.5,62.4,2.2,2005
+"Bridgeport-Stamford-Norwalk, CT",57.5,4.8,74.7,4.4,70.8,4.6,70.8,2.8,2005
+"Buffalo-Cheektowaga-Tonawanda, NY\6",66.9,6.6,74.6,6.3,60.6,6.9,63.2,4.1,2005
+"Charlotte-Gastonia-Concord, NC-SC\7",64.4,6.1,66.1,6.1,67.4,6.1,65.3,3.8,2005
+"Chicago-Naperville-Joliet, IL\8",69.9,2.5,69.3,2.5,71,2.5,69.8,1.5,2005
+"Cincinnati-Middletown, OH-KY-IN\9",69.8,5.1,67.4,5.3,67.7,5.1,68.6,3,2005
+"Cleveland-Elyria-Mentor, OH\10",70.6,4.8,75.1,4.6,74.2,4.6,77.4,2.7,2005
+"Columbia, SC",73.6,7.9,72.8,7.7,77.8,7.2,81,4.2,2005
+"Columbus, OH",64.2,5.8,70.6,5.4,70.9,5.4,69.5,3.3,2005
+"Dallas-Ft Worth-Arlington, TX\11",64.6,3.1,60.9,3.3,61,3.3,62.7,2,2005
+"Dayton, OH",67.1,8.1,62.3,8.4,67.7,7.9,67.2,4.9,2005
+"Denver-Aurora, CO\12",71.5,3.6,71.8,3.5,70.5,3.6,69,2.2,2005
+"Detroit-Warren-Livonia, MI\13",74.1,3.1,75.9,3.1,75.2,3.1,75.2,1.9,2005
+"El Paso, TX",75.3,8.1,81.3,7.9,67.7,9.9,64.9,5.9,2005
+"Fresno, CA",50.3,8.9,43.8,9.2,56.9,8.9,55.7,5.4,2005
+"Grand Rapids-Wyoming, MI\14",62.7,8.9,71.8,7.9,76.8,7.7,78.7,4.4,2005
+"Greensboro-High Point, NC\15",68.8,8.4,65.3,9,63.9,9.5,66.5,5.5,2005
+"Hartford-West Hartford-East Hartford, CT\16",73.5,3.6,70.4,3.8,71,3.9,73.7,2.3,2005
+"Honolulu, HI",60.1,3.9,58.4,3.9,56.7,3.9,56.9,2.4,2005
+"Houston-Baytown-Sugar Land, TX\17",63.4,3.5,59.3,3.6,60.7,3.8,63.2,2.1,2005
+"Indianapolis, IN",78.6,4.9,77.2,5.1,76.8,5.1,76,3.2,2005
+"Jacksonville, FL",67.2,6.6,65.7,6.4,68.5,6.4,70.4,3.8,2005
+"Kansas City, MO-KS",73,3.5,68.6,3.6,72.8,3.5,71,2.2,2005
+"Las Vegas-Paradise, NV\18",63.6,3.6,59.1,3.6,60.3,3.6,62.7,2.2,2005
+"Los Angeles-Long Beach-Santa Ana, CA \19",55,2.1,54.7,2.3,54.3,2.3,54.4,1.4,2005
+"Louisville, KY-IN",61.1,7.2,63.8,6.9,65.2,7.1,61.7,4.4,2005
+"Memphis, TN-AR-MS",64.4,5.1,65.7,5.1,67.1,5.1,61.8,3.2,2005
+"Miami-Fort Lauderdale-Miami Beach, FL\20",71,3.3,69.6,3.1,68.7,3.3,67.6,2,2005
+"Milwaukee-Waukesha-West Allis, WI",65.9,5.1,66,5.1,66.2,5.1,64.9,3.1,2005
+"Minneapolis-St Paul-Bloomington, MN-WI ",75.6,2.8,74,2.8,75.2,2.8,74.8,1.7,2005
+"Nashville-Davidson-Murfreesboro, TN\21",67.3,6.4,74.6,5.8,75.6,5.8,74.1,3.5,2005
+"New Haven-Milford, CT",68.2,4.8,66.3,4.8,66.6,4.8,66.5,2.9,2005
+"New Orleans-Metairie-Kenner, LA\22",69.6,6.3,72.3,6.3,64.2,7.7,81.9,4.4,2005
+"New York-Northern New Jersey--Long Island, NY\23",55.9,1.8,53.9,1.8,54.1,1.8,54.7,1.1,2005
+"Oklahoma City, OK",68.5,5.8,75.1,5.3,73.4,5.6,74.6,3.3,2005
+"Omaha-Council Bluffs, NE-IA",69,4.9,68.8,4.9,71.2,4.8,69.7,2.9,2005
+"Orlando, FL",70.3,5.4,71.2,5.3,68.8,5.3,71.5,3.1,2005
+"Oxnard-Thousand Oaks-Ventura, CA",77.8,7.6,72.1,7.7,68.2,8.4,75.7,4.5,2005
+"Philadelphia-Camden-Wilmington, PA ",75.1,3,72.9,3,73.2,3,72.8,1.8,2005
+"Phoenix-Mesa-Scottsdale, AZ\24",74.4,3.8,68.4,3.9,71,3.8,71.2,2.3,2005
+"Pittsburgh, PA",75.6,4.3,71.9,4.4,73.2,4.4,71.6,2.7,2005
+"Portland-Vancouver-Beaverton, OR-WA\25",72.9,3.9,66,4.1,65.3,4.3,68.9,2.5,2005
+"Poughkeepsie-Newburgh-Middletown, NJ",75.1,8.6,77.8,8.7,74.5,8.6,69.7,5.6,2005
+Providence-New Bedford-Fall River RI-MA\26,62.3,5.9,59.9,5.9,65.4,5.8,64.5,3.5,2005
+"Raleigh-Cary, NC\27",78,6.9,64.9,7.9,70.1,7.2,73.1,4.3,2005
+"Richmond, VA\28",68,6.3,67.8,6.1,73.3,5.8,69.4,3.6,2005
+"Riverside-San Bernardino-Ontario, CA\29",68.7,4.1,66.7,4.1,68.9,4.1,69.5,2.4,2005
+"Rochester, NY",73.8,6.6,76.6,6.4,73.1,6.7,76.2,3.9,2005
+"Sacramento-Arden-Arcade-Roseville, CA\30",64.1,5.1,64.1,5.1,66.8,5.1,61.3,3.2,2005
+"St Louis, MO-IL",72.5,4.1,76.8,3.9,74.7,3.9,73.4,2.4,2005
+"Salt Lake City, UT\31",70,5.8,65,5.8,68.9,5.4,71.2,3.2,2005
+"San Antonio, TX ",66,6.1,65.3,5.9,65.6,5.6,67.1,3.5,2005
+"San Diego-Carlsbad-San Marco, CAs\32",62,4.4,59.9,4.4,60.5,4.6,59.7,2.8,2005
+"San Francisco-Oakland-Fremont, CA\33",56.5,3.6,57.4,3.6,58.6,3.6,58.8,2.2,2005
+"San Jose-Sunnyvale-Santa Clara, CA\34",58,5.8,57.6,6.1,60.1,5.8,60.9,3.5,2005
+"Seattle-Tacoma-Bellevue, WA",63.4,3.8,65.4,3.8,64.3,3.8,64.8,2.3,2005
+"Springfield, MA",64.7,8.9,70.2,8.4,61.9,8.7,61.3,5.3,2005
+"Syracuse, NY",56.8,10.2,58.4,9.5,62.3,9.2,61.4,5.5,2005
+"Tampa-St Petersburg-Clearwater, FL",73.4,4.3,73.3,4.3,71,4.3,69.1,2.6,2005
+"Toledo, OH",70.8,9,70.8,8.9,74.6,8.7,73.5,5.1,2005
+"Tucson, AZ ",67,7.9,65.8,8.2,66.2,7.9,65.5,4.8,2005
+"Tulsa, OK",77.6,6.1,72.7,6.3,70.5,6.6,66,4.2,2005
+"Virginia Beach-Norfolk-Newport News, VA\35",68.7,6.4,64.9,6.6,65.9,6.4,72.7,3.7,2005
+"Washington-Arlington-Alexandria, DC-VA-MD-WV\36",68.6,3.3,68.2,3.3,68.7,3.3,68.3,2,2005
+"Worcester, MA",63.4,8.9,64.8,8.6,63.3,8.2,69.1,4.8,2005
